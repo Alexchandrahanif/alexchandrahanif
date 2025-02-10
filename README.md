@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Coding Activity
+<a href="https://github.com/erizonade"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexchandrahanif&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
